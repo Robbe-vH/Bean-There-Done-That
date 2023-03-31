@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\Coffees.cs" />
     <Compile Include="Business\Entities\Coffee.cs" />
     <Compile Include="Data\CoffeeData.cs" />
+    <Compile Include="Data\ConnectionSettings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,6 @@
 ﻿namespace ClassLibBTDT.Business.Entities
 {
-    internal class Coffee
+    public class Coffee
     {
         private int coffeeID;
 
