@@ -1,0 +1,6 @@
+C:\Users\robbe\source\repos\Bean-There-Done-That\BeanThereDoneThat\ClassLibBTDT\bin\Debug\ClassLibBTDT.dll
+C:\Users\robbe\source\repos\Bean-There-Done-That\BeanThereDoneThat\ClassLibBTDT\bin\Debug\ClassLibBTDT.pdb
+C:\Users\robbe\source\repos\Bean-There-Done-That\BeanThereDoneThat\ClassLibBTDT\obj\Debug\ClassLibBTDT.csproj.AssemblyReference.cache
+C:\Users\robbe\source\repos\Bean-There-Done-That\BeanThereDoneThat\ClassLibBTDT\obj\Debug\ClassLibBTDT.csproj.CoreCompileInputs.cache
+C:\Users\robbe\source\repos\Bean-There-Done-That\BeanThereDoneThat\ClassLibBTDT\obj\Debug\ClassLibBTDT.dll
+C:\Users\robbe\source\repos\Bean-There-Done-That\BeanThereDoneThat\ClassLibBTDT\obj\Debug\ClassLibBTDT.pdb
