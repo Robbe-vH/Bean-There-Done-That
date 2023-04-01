@@ -43,13 +43,14 @@
   <ItemGroup>
     <Compile Include="Business\Coffees.cs" />
     <Compile Include="Business\Entities\Coffee.cs" />
-    <Compile Include="Data\CoffeeData.cs" />
-    <Compile Include="Data\ConnectionSettings.cs" />
+    <Compile Include="Data\Framework\BaseResult.cs" />
+    <Compile Include="Data\Framework\InsertResult.cs" />
+    <Compile Include="Data\Repositories\CoffeeData.cs" />
+    <Compile Include="Data\Framework\LocalSettings.cs" />
+    <Compile Include="Data\Framework\SelectResult.cs" />
+    <Compile Include="Data\Framework\SQLServer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Data\Framework\" />
-    <Folder Include="Data\Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
